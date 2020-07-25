@@ -56,7 +56,7 @@ body {
 }
 
 #main-content .row{
-  margin: 0 35px 25px;
+  margin: 0 25px 25px;
 }
 
 .menu-item-detail{
@@ -75,9 +75,6 @@ body {
 .menu-item-detail a:hover{
   background-color: #E7E7E7;
 }
-/*********************end of menu categories*************************/
-
-/*********************start single-menu-categores**************************/
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
